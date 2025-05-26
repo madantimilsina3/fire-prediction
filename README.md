@@ -47,7 +47,7 @@ NOTE: Because of having data of only one week, this model was not completely acc
 
 ---
 
-## 📌 Future Work
+## 📌 Future possibilities
 - Use larger time windows (e.g., daily or weekly fire aggregation)
 - Integrate real-time data stream for live monitoring
 - Improve predictions using weather, wind, humidity, etc.
