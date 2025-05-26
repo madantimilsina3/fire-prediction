@@ -27,7 +27,6 @@ NOTE: Because of having data of only one week, this model was not completely acc
 
 ## 🌍 Global Heatmap (Predicted Fire Risk)
 - A global fire-risk heatmap was generated for the next week based on current week's data
-- Filtered out extreme latitudes near poles for realistic fire zones
 - Data aggregated using grid-based latitude/longitude
 - Final coordinates exported as CSV
 
